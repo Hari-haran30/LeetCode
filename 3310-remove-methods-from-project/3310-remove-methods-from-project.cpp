@@ -34,4 +34,4 @@ void dfs(int node, vector<vector<int>>& adj, vector<bool>& suspicious) {
         }
         return ans;
     }
-};
+};;
